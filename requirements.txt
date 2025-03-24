@@ -1,0 +1,12 @@
+aio-pika==9.5.5
+aiormq==6.8.1
+cassandra-driver==3.29.2
+click==8.1.8
+exceptiongroup==1.2.2
+geomet==0.2.1.post1
+idna==3.10
+multidict==6.2.0
+pamqp==3.3.0
+propcache==0.3.0
+six==1.17.0
+yarl==1.18.3
